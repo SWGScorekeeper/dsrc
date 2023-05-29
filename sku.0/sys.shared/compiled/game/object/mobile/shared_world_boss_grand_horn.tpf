@@ -1,0 +1,19 @@
+
+@base object/mobile/shared_krayt_dragon.iff
+
+@class creature_object_template 10
+
+
+
+@class tangible_object_template 3
+
+
+
+@class object_template 4
+
+objectName = "monster_name"  "world_boss_grand_horn"
+detailedDescription = "" ""
+lookAtText = "monster_lookat"  "world_boss_grand_horn"
+appearanceFilename = "appearance/krayt_dragon_hue.sat"
+
+clientDataFile = "clientdata/creature/client_shared_cr_krayt_dragon.cdf"

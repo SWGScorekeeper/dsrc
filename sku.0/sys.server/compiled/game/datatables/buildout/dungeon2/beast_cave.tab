@@ -1,0 +1,4 @@
+objid	container	server_template_crc	cell_index	px	py	pz	qw	qx	qy	qz	scripts	objvars
+i	i	h	i	f	f	f	f	f	f	f	s	p
+-1	0	object/building/scorekeeper/beast_cave.iff	0	2000	-1000	2000	1	0	0	0		$|
+-2	-1	object/cell/cell.iff	1	0	0	0	1	0	0	0		$|

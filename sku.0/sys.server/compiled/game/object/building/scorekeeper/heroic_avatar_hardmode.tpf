@@ -1,0 +1,27 @@
+//            Filename:     ig88_factory_arena.tpf
+//            Directory:    object/building/general
+//
+//            Description:
+//            
+//
+//            Notes:
+//
+//
+//            Category:                   Building
+//            Sub-Category:               Cave
+//            Classification:             Null
+//            
+
+@base object/building/base/base_cave.iff
+
+@class building_object_template 0
+
+@class tangible_object_template 0
+
+@class object_template 1
+
+sharedTemplate = "object/building/scorekeeper/shared_heroic_avatar_hardmode.iff"
+
+objvars = +[ "instance.data_table"="datatables/spawning/scorekeeper/heroic_avatar_hardmode.iff", "instance_name"="heroic_avatar_hardmode"]
+
+scripts = +[ "theme_park.scorekeeper_dungeon.heroic_avatar_hardmode_controller", "systems.instance.instance_manager", "systems.dungeon_sequencer.sequence_controller"]

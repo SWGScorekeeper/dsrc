@@ -1,0 +1,12 @@
+area	x1	z1	x2	z2	useClipRect	clipRectX1	clipRectZ1	clipRectX2	clipRectZ2	envFlags	envFlagsExclude	useOrigin	originX	originZ	compositeX1	compositeZ1	compositeX2	compositeZ2	compositeName	isolated	allowMap	internal	allowRadarTerrain	eventRequired	requiredLoadLevel
+s	f	f	f	f	b[0]	f[0]	f[0]	f[0]	f[0]	i[0xff]	i[0x00]	b[0]	f[0]	f[0]	f[0]	f[0]	f[0]	f[0]	s	b[1]	b[1]	b[0]	b[1]	s	s
+heroic_avatar_hardmode	-7000	-7000	-6500	-6500																					light
+heroic_avatar_hardmode	-6000	-7000	-5500	-6500																					medium
+heroic_avatar_hardmode	-5000	-7000	-4500	-6500																					medium
+heroic_avatar_hardmode	-4000	-7000	-3500	-6500																					medium
+heroic_avatar_hardmode	-3000	-7000	-2500	-6500																					medium
+heroic_avatar_hardmode	-2000	-7000	-1500	-6500																					heavy
+heroic_avatar_hardmode	-1000	-7000	-500	-6500																					heavy
+heroic_avatar_hardmode	0	-7000	500	-6500																					heavy
+heroic_avatar_hardmode	1000	-7000	1500	-6500																					heavy
+heroic_avatar_hardmode	2000	-7000	2500	-6500																					heavy
