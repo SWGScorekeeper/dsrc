@@ -247,6 +247,7 @@ public class trial extends script.base_script
     public static final int HP_EXAR_CLOSED = 1485235;
     public static final int HP_UNCLE_JOE = 818125;
     public static final int HP_JOES_ADDS = 355325;
+    public static final int HP_WORLD_BOSS_GRAND_HORN = 5000000;
     public static final int TIME_UPLINK_WIN = 60 * 60 * 2;
     public static final int TIME_DECREPIT_ADD = 60 * 90;
     public static final int TIME_DECREPIT_WIN = 60 * 60 * 3;
